@@ -9,7 +9,7 @@
 
 
 ### Contacts:
-- Linkedln: @https://www.linkedin.com/in/loickonan/
+- Linkedln: https://www.linkedin.com/in/loickonan/
 - Email: Loickona.lk@gmail.com
 
 
