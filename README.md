@@ -16,4 +16,4 @@
 ### Interests:
 - CyberSecurity 🛡️
 - Blockchain Technology 👨‍💻
-- Cryptos
+- Crypto
