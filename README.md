@@ -1,4 +1,4 @@
-## Hi there 👋 I am Loic Konan
+## Hi there 👋 I am Loic 
 
 
 - 🔭 I’m currently working on my **MS/BS**
