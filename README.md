@@ -1,7 +1,7 @@
 ## Hi there 👋 I am Loic 
 
 
-- 🔭 I’m currently working on my **MS/BS**
+- 🔭 I’m currently working on my **BS/MS**
 - 🌱 I’m currently learning Java
 - 💬 Ask me about anything.
 
