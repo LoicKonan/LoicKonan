@@ -1,4 +1,4 @@
-## Hi there 👋 I am Loic 
+## Hi there 👋 
 
 
 - 🔭 I’m currently working on my **BS/MS**.
