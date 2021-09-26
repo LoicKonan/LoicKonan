@@ -1,8 +1,8 @@
 ## Hi there 👋 I am Loic 
 
 
-- 🔭 I’m currently working on my **BS/MS**
-- 🌱 I’m currently learning Java
+- 🔭 I’m currently working on my **BS/MS**.
+- 🌱 I’m currently learning Java.
 - 💬 Ask me about anything.
 
 
