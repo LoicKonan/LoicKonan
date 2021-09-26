@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Java.
 - 💬 Ask me about anything.
 
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 ### Contacts:
 - Linkedln: https://www.linkedin.com/in/loickonan/
