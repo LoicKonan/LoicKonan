@@ -22,7 +22,7 @@
 - 😄 Pronouns: **He/His**.
 - ⚡ Fun fact: I spend almost **12 hours listening to songs every day**.
 
-[![Linkedin: loickonan](https://img.shields.io/badge/-loickonan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/LoicKonan/)](https://github.com/LoicKonan/)
+[![Linkedin: loickonan](https://img.shields.io/badge/-loickonan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loickonan/)](https://github.com/LoicKonan/)
 [![GitHub loickonan](https://img.shields.io/github/followers/loickonan?label=follow&style=social)](https://github.com/LoicKonan)
 
 
