@@ -6,11 +6,14 @@
 - 💬 Ask me about anything.
 
 ### Contacts:
-- Linkedln: https://www.linkedin.com/in/loickonan/
-- Email: Loickona.lk@gmail.com
+- [Linkedln: @Loic Konan](https://www.linkedin.com/in/loickonan/)
+
+- [Email: @ Loic Konan](loickonan.lk@gmail.com)
 
 
 ### Interests:
 - ***CyberSecurity*** 🛡️
 - ***Blockchain Technology*** 👨‍💻
 - ***Crypto***
+
+<img src = "https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"
