@@ -45,11 +45,11 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>    
 
 <a href="https://github.com/loickonan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loickonan&theme=light&hide_langs_below=1" />
+  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=loickonan&theme=light&hide_langs_below=1" />
 </a>
 
 <a href="https://github.com/loickonan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=loickonan&show_icons=true&theme=light&line_height=42" alt="loic's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=LoicKonan&&show_icons=true&line_height=40&title_color=3982FA&icon_color=CF040D&text_color=0DCE42&bg_color=FFFFFF"/>
 </a>
 
 <div align="center">
