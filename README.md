@@ -7,7 +7,7 @@
 
 ### Contacts:
 - [**Linkedln:** @Loic Konan](https://www.linkedin.com/in/loickonan/)
-- **Email:**loickonan.lk@gmail.com
+- **Email:** loickonan.lk@gmail.com
 
 ### Interests:
 - ***CyberSecurity*** 🛡️
