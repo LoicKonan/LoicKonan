@@ -32,7 +32,7 @@
 
 ### Interests:
 
-- ***CyberSecurity*** 🛡️
+- ***CyberSecurity*** 🛡️🖥️ 
 - ***Blockchain Technology*** 👨‍💻
 - ***Crypto*** :fire:
 
