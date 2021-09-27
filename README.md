@@ -1,4 +1,8 @@
- ## Hi there 👋 I'm Loic Konan
+<div align="center">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="350"/><br> 
+ <h1 style="font-size:40px;"><strong> Hi there 👋 I'm Loic Konan </strong></h1>  
+
+</div align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loickonan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
 
@@ -43,13 +47,14 @@
 <a href="https://github.com/loickonan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loickonan&theme=light&hide_langs_below=1" />
 </a>
+
 <a href="https://github.com/loickonan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=loickonan&show_icons=true&theme=light&line_height=27" alt="loic's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=loickonan&show_icons=true&theme=light&line_height=42" alt="loic's github stats"/>
 </a>
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring some of the repositories 🔥 🔥 🔥
 
 </div>
 
