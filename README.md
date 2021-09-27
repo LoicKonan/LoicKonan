@@ -6,8 +6,8 @@
 - 💬 Ask me about anything.
 
 ### Contacts:
-- [Linkedln: @Loic Konan](https://www.linkedin.com/in/loickonan/)
-- [Email:loickonan.lk@gmail.com]
+- [**Linkedln:** @Loic Konan](https://www.linkedin.com/in/loickonan/)
+- **Email:**loickonan.lk@gmail.com
 
 ### Interests:
 - ***CyberSecurity*** 🛡️
