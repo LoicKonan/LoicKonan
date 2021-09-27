@@ -15,4 +15,4 @@
 - ***Blockchain Technology*** 👨‍💻
 - ***Crypto***
 
-<img src="https://github-readme-stats.vercel.app/api?username=LoicKonan&&show_icons=true&title_color=0023FE&icon_color=FE0000&text_color=55FE00&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=LoicKonan&&show_icons=true&title_color=0023FE&icon_color=14FA02&text_color=FE0000&bg_color=ffffff">
