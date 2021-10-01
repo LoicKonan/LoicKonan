@@ -49,7 +49,7 @@
 </a>
 
 <a href="https://github.com/loickonan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=LoicKonan&&show_icons=true&line_height=40&title_color=3982FA&icon_color=CF040D&text_color=0DCE42&bg_color=FFFFFF"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=LoicKonan&&show_icons=true&line_height=50&title_color=3982FA&icon_color=CF040D&text_color=0DCE42&bg_color=FFFFFF"/>
 </a>
 
 <div align="center">
