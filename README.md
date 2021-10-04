@@ -4,7 +4,7 @@
 
 </div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loickonan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=loickonan&label=Views&color=blue&style=plastic" alt="loickonan" /> </p>
 
 <a href="https://www.linkedin.com/in/loickonan/">
   <img align="left" alt="Loic's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
