@@ -24,7 +24,7 @@
 - 💬 Ask me about speaking **French** or any **Tech-related stuff**.
 - 📫 How to reach me: [**Linkedln:** @Loic Konan](https://www.linkedin.com/in/loickonan/),  **Email:** loickonan.lk@gmail.com
 - 😄 Pronouns: **He/His**.
-- ⚡ Fun fact: I spend almost **10 hours listening to songs every day**.
+- ⚡ Fun fact: I spend almost **10 hours watching youtube videos every day**.
 
 [![Linkedin: loickonan](https://img.shields.io/badge/-loickonan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loickonan/)](https://www.linkedin.com/in/loickonan/)
 [![GitHub loickonan](https://img.shields.io/github/followers/loickonan?label=follow&style=social)](https://github.com/LoicKonan)
