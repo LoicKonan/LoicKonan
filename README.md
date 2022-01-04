@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on my **BS/MS**.
 - 🌱 I’m currently learning more about **BlockChain**.
 - 👯 I’m looking to collaborate on any **Project**.
-- 🤔 I’m looking for help with **Solidity, Solana, Rust**.
+- 🤔 I’m looking for help with **Solidity, Rust**.
 - 💬 Ask me about speaking **French** or any **Tech-related stuff**.
 - 📫 How to reach me: [**Linkedln:** @Loic Konan](https://www.linkedin.com/in/loickonan/),  **Email:** loickonan.lk@gmail.com
 - 😄 Pronouns: **He/His**.
