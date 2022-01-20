@@ -1,11 +1,3 @@
-<div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="350"/><br> 
- <h1 style="font-size:40px;"><strong> Hi there 👋 I'm Loic Konan </strong></h1>  
-
-</div align="center">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loickonan&label=Views&color=blue&style=plastic" alt="loickonan" /> </p>
-
 <a href="https://www.linkedin.com/in/loickonan/">
   <img align="left" alt="Loic's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
