@@ -43,16 +43,9 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>    
 
-<a href="#" onclick="return false;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loickonan&theme=light&count_private=true&langs_count=20" />
-</a>
-
-<a href="https://github.com/loickonan">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=LoicKonan&&show_icons=true&line_height=40&title_color=3982FA&icon_color=CF040D&text_color=0DCE42&bg_color=FFFFFF"/>
-</a>
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories 🔥 🔥 🔥
+### Show some ❤️🔥 🔥 🔥
 
 </div>
