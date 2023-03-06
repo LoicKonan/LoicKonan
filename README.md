@@ -16,7 +16,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on my **MS**.
+- 🔭 Computer Science.
 - 🌱 I’m currently learning more about **BlockChain Technology**.
 - 👯 I’m looking to collaborate on any **BlockChain Projects, or NFT Projects**.
 - 🤔 I’m looking for help with **Solidity, Rust**.
