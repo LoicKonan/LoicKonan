@@ -21,7 +21,7 @@
 - 👯 I’m looking to collaborate on any **BlockChain Projects, or NFT Projects**.
 - 🤔 I’m looking for help with **Solidity, Rust**.
 - 💬 Ask me about speaking **French** or any **Tech-related stuff**.
-- 📫 How to reach me: [**Linkedln:** @Loic Konan](https://www.linkedin.com/in/loickonan/),  **Email:** loickonan.lk@gmail.com
+- 📫 How to reach me: [**Linkedln:** @Loic Konan](https://www.linkedin.com/in/loickonan/)
 - 😄 Pronouns: **He/His**.
 - ⚡ Fun fact: I spend almost **10 hours watching youtube videos about Tech related stuff**.
 
