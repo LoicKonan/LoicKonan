@@ -17,7 +17,7 @@
 
 
 - 🔭 Computer Science.
-- 🌱 I’m currently learning more about **BlockChain Technology**.
+- 🌱 I’m currently learning more about **AI & BlockChain Technology**.
 - 👯 I’m looking to collaborate on any **BlockChain Projects, or NFT Projects**.
 - 🤔 I’m looking for help with **Solidity, Rust**.
 - 💬 Ask me about speaking **French** or any **Tech-related stuff**.
