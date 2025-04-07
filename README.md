@@ -18,8 +18,6 @@
 
 - 🔭 Computer Science.
 - 🌱 I’m currently learning more about **AI & BlockChain Technology**.
-- 👯 I’m looking to collaborate on any **BlockChain Projects, or NFT Projects**.
-- 🤔 I’m looking for help with **Solidity, Rust**.
 - 💬 Ask me about speaking **French** or any **Tech-related stuff**.
 - 📫 How to reach me: [**Linkedln:** @Loic Konan](https://www.linkedin.com/in/loickonan/)
 - 😄 Pronouns: **He/His**.
